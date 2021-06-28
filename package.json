@@ -1,0 +1,19 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "amazon/flipkart crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dinesh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.7",
+    "pdfkit": "^0.12.1",
+    "unofficial-amazon-search": "^2.0.7"
+  }
+}
