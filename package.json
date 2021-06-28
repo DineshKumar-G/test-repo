@@ -14,6 +14,8 @@
     "lodash": "^4.17.21",
     "nodemon": "^2.0.7",
     "pdfkit": "^0.12.1",
+    "sharp": "^0.28.3",
+    "taiko": "^1.2.5",
     "unofficial-amazon-search": "^2.0.7"
   }
 }
